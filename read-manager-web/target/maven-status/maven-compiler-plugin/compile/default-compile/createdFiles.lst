@@ -1,0 +1,8 @@
+com\web\read\controller\ContentCategoryController.class
+com\web\read\controller\ItemController.class
+com\web\read\controller\ItemCatController.class
+com\web\read\controller\ItemParamItemController.class
+com\web\read\controller\ItemParamController.class
+com\web\read\controller\PageController.class
+com\web\read\controller\PictureController.class
+com\web\read\controller\ContentController.class
